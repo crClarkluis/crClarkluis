@@ -1,5 +1,4 @@
-# 👋 Hi, I’m Clark Luis Julian!
-
+# 👋 Hi, I’m Julian!
 **Freelance Web & Software Developer | Full Stack Developer | Business Analyst**
 
 ---
