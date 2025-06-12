@@ -8,8 +8,7 @@
 I'm a 22-year-old BSIT graduate from San Jose, Occidental Mindoro, and an alumnus of [Occidental Mindoro State College](https://omsc.edu.ph/). I specialize in building practical digital solutions with a focus on usability and real-world impact. My passion for tech drives me to constantly learn more, especially in software development and system architecture.
 
 - 🛠 **Tech Stack:**  
-  Javascript (with HTML & CSS), Electron, Astro, Visual Basic, Java 
-  DevOps
+  Javascript (with HTML & CSS), Electron, Node.js, NeDB, Dart, Astro, Visual Basic
   Web Design & Prototyping (Figma, Adobe XD)  
   Computer Troubleshooting & Repair
 
